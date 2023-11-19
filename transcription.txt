@@ -1,0 +1,416 @@
+00:00.000 --> 00:05.280
+I don't have anything against consoles, they're a great value and I own a PS5 and Xbox Series X
+
+00:05.280 --> 00:10.480
+myself. But what if you want an overpowered PC and access to your entire Steam library from the
+
+00:10.480 --> 00:15.600
+couch with a system that fits and looks like it belongs in the living room. So that's what we're
+
+00:15.600 --> 00:20.000
+going to build today. Let's talk about the parts, put this thing together, then we can check out
+
+00:20.000 --> 00:23.840
+the thermal and gaming performance you can expect in such a small compact system.
+
+00:23.840 --> 00:34.400
+For the CPU, I'm going to be using the 7800X 3D. Now there's a few reasons I chose this one. First,
+
+00:34.400 --> 00:39.200
+it's already considered the best gaming CPU you can buy and that's in large part due to the cores
+
+00:39.200 --> 00:43.760
+being accelerated with 3D vCache, which gives them more performance in single-thread applications
+
+00:43.760 --> 00:48.480
+like gaming. The second reason is that it's very efficient, making it much easier to cool,
+
+00:48.480 --> 00:53.200
+which is going to be important for this smaller form factor where we can only fit a low-profile
+
+00:53.280 --> 00:59.760
+CPU cooler. The 7800X 3D is currently priced at $450 and has 8 cores, 16 threads, and a
+
+00:59.760 --> 01:04.880
+boost clock up to 5 GHz. This CPU also requires a new AM5 motherboard. I'm going to be using the
+
+01:04.880 --> 01:10.800
+ASUS ROG Strix B650EI. This has plenty of USB ports, including a couple of Type-C ports,
+
+01:10.800 --> 01:15.440
+and a load of other features like a BIOS flashback button. We've also got Wi-Fi 6E,
+
+01:15.440 --> 01:20.960
+a Type-C header, which we will need for the case that we're using, and two M.2 slots along with
+
+01:20.960 --> 01:31.040
+some giant VRM heatsinks. This motherboard does support the next generation PCIe 5.0 M.2 drives.
+
+01:31.040 --> 01:36.800
+Those aren't widely available right now, so I'll be using a Gen4 Samsung 980 Pro. Gen5 doesn't seem
+
+01:36.800 --> 01:42.400
+to offer any real benefits over a Gen4 drive for gaming as of right now, so this will work out great
+
+01:42.400 --> 01:46.960
+in this build. I have a 2TB stick here, which is plenty of storage for me, but it'll be easy to
+
+01:47.040 --> 01:51.040
+expand with that second slot if it's ever needed. Okay, so now we can install the RAM,
+
+01:51.040 --> 01:55.680
+and for this build, we're going to need DDR5 memory. So I'm going with 32 gigs of Corsair's
+
+01:55.680 --> 02:01.600
+Vengeance DDR5 5600 memory. We need to use lower clearance sticks here in order to fit our low
+
+02:01.600 --> 02:07.120
+profile CPU cooler. This isn't necessarily the fastest DDR5 memory either. AMD has commented
+
+02:07.120 --> 02:13.520
+that DDR5 6000 is the optimal speed for the 7000 series CPUs. Still, this should work out just fine
+
+02:13.520 --> 02:17.600
+for our build. Now we need to make sure that the notch is correctly aligned and then apply
+
+02:17.600 --> 02:25.760
+even pressure until you hear it click into place. Now we can install the CPU cooler, and I'm going
+
+02:25.760 --> 02:32.480
+with the Noctua NH-L12S. These coolers are pretty popular for ITX builds, as they have a low profile
+
+02:32.480 --> 02:37.040
+and they do an excellent job keeping things cool despite its size. The total clearance on this
+
+02:37.040 --> 02:42.320
+cooler is 70mm when you have the 120mm fan installed underneath the fin stack, which is
+
+02:42.320 --> 02:46.800
+the exact max height we will be able to fit in the case. To install, we'll need to remove the
+
+02:46.800 --> 02:50.640
+pre-installed mounts from the motherboard by unscrewing these four screws and then taking
+
+02:50.640 --> 02:55.600
+them off. The cooler uses the existing backplate, so we can leave that in place and grab the two
+
+02:55.600 --> 03:00.560
+brackets that work for our chosen orientation. Now we can screw the new brackets into place and
+
+03:00.560 --> 03:05.600
+apply some thermal paste. A pea-sized mount in the center will work perfect. Next, lower the
+
+03:05.600 --> 03:10.480
+CPU cooler onto the brackets and begin screwing the cooler into place. Noctua actually includes
+
+03:10.480 --> 03:14.880
+a long screwdriver in the box to reach through these fins, which is actually really convenient
+
+03:14.880 --> 03:19.440
+here. We'll want to switch sides every two to three rotations to ensure even pressure across
+
+03:19.440 --> 03:24.080
+the CPU until it's fully into place. Now there's no need to use excessive force here, you can easily
+
+03:24.080 --> 03:28.800
+feel when it's completely tightened. Then we can plug in the CPU fan, and that's the motherboard
+
+03:28.800 --> 03:33.440
+prepped, and it's looking really good in my opinion. Super compact, and the CPU cooler is
+
+03:33.440 --> 03:38.320
+fitting perfectly. It's just barely clearing the VRM heatsinks, and it clears the RAM. Really good
+
+03:38.320 --> 03:43.360
+use of this limited space. Okay, so the case we're going to be using is the Fractal Design Ridge.
+
+03:43.360 --> 03:48.400
+Now I've wanted to build in this case for a while now, but they've been a bit hard to find. Although
+
+03:48.400 --> 03:52.480
+now they seem to be a little bit more readily available. There was an issue with the included
+
+03:52.480 --> 03:58.640
+GPU riser. It was originally marketed as a Gen 4, however there seems to be some compatibility
+
+03:58.640 --> 04:03.120
+issues, so now they're only considered Gen 3 compatible. I'm not sure if they plan to fix this,
+
+04:03.120 --> 04:08.240
+or sell an updated adapter. Still, it shouldn't affect our performance in any significant way.
+
+04:08.240 --> 04:12.320
+Of course, we need to remove the side panels, and to make the case easier to work in,
+
+04:12.320 --> 04:17.520
+I'm going to unscrew and remove the top and bottom panels. Then remove the middle GPU bracket here,
+
+04:17.520 --> 04:22.160
+which also contains part of the GPU riser. So now we can take the motherboard, align it with the
+
+04:22.160 --> 04:27.200
+four standoffs, then use the screws included with the case to secure it. Now before we install the
+
+04:27.200 --> 04:32.080
+power supply, I'm going to plug in these case cables while I still have some room. So that's
+
+04:32.080 --> 04:37.840
+the HD audio connector on the top right here, then the USB 3.0, USB type C, and the front panel
+
+04:37.840 --> 04:43.440
+connectors on the left. Fractal gave way too much slack to the stiff USB 3.0 cable, so we're going
+
+04:43.440 --> 04:47.840
+to have to figure out how we're going to manage that. Now it's time for the power supply, and I'm
+
+04:47.840 --> 04:53.680
+going to be using the Cooler Master V850 80 plus gold SFX power supply. Now you could get away with
+
+04:53.680 --> 04:58.160
+a lower wattage power supply here, depending on the GPU of course, but this is just what I had on
+
+04:58.160 --> 05:03.280
+hand, and this would leave a lot of headroom for a more powerful GPU in the future. So now we will
+
+05:03.280 --> 05:07.760
+need to remove this power supply bracket from the case by unscrewing on the front and back side of
+
+05:07.760 --> 05:12.080
+the case, and from there we can slide the bracket onto the power supply and secure it with the
+
+05:12.080 --> 05:16.880
+included four screws. Now we can slide it with the attached bracket back into place and re-secure it.
+
+05:16.880 --> 05:22.000
+Next we can plug in the 24-pin motherboard cable, and it's located on the left side, which is pretty
+
+05:22.000 --> 05:26.080
+difficult to access now that we have the power supply in. If you are building this, it might be
+
+05:26.080 --> 05:30.400
+easier to also plug this cable in before securing the power supply. Luckily I can still manage to
+
+05:30.400 --> 05:34.400
+get it plugged in without removing anything. Now we can plug in the 8-pin CPU connector
+
+05:34.400 --> 05:38.400
+at the bottom right, and then feed that cable across the bottom and up the left side of the
+
+05:38.400 --> 05:43.040
+motherboard to plug into the power supply. I'm also going to plug in an 8-pin PCIe power cable
+
+05:43.040 --> 05:48.160
+that we will use later for the GPU and run that up to the top of the case. Finally it's time to
+
+05:48.160 --> 05:52.000
+plug in the case fans by running them around the back side of the case and through one of the
+
+05:52.000 --> 05:56.560
+pass-throughs to the motherboard. Now let's install the GPU bracket. So we can open up the
+
+05:56.560 --> 06:02.400
+PCIe slot on the motherboard, then align the pins on the bracket to the PCIe slot, and gently push
+
+06:02.400 --> 06:06.400
+until it clicks into place. Then just secure the bracket back to the case. And everything's looking
+
+06:06.400 --> 06:11.040
+great, so it's time to do some cable management to clean things up before we move to the GPU.
+
+06:11.040 --> 06:17.040
+For the GPU, I wanted to test out the newly released RTX 4070 Founders Edition. So first off,
+
+06:17.040 --> 06:22.480
+this card looks great. It follows the same design patterns as the larger 4080 and 4090s.
+
+06:22.480 --> 06:27.920
+It hasn't exactly had the warmest reception from initial reviews, which seems mostly due to its
+
+06:27.920 --> 06:33.600
+price to performance. Now usually the 70 series GPUs offers the performance of the top tier card
+
+06:33.600 --> 06:38.640
+of the previous generation, but for like half the price. Instead, we're getting roughly 3080
+
+06:38.640 --> 06:43.600
+performance for $600. And Nvidia seems to be leaning more toward the technology advancements
+
+06:43.600 --> 06:49.520
+in things like DLSS as the main value add, more than just raw performance. Which on one hand is
+
+06:49.520 --> 06:54.480
+fair, but the problem is not a lot of games use DLSS 3 and frame generation at the moment.
+
+06:54.480 --> 06:59.120
+And for competitive players, that's not really a technology they would utilize due to the increase
+
+06:59.120 --> 07:04.320
+in latency. In my opinion, that doesn't make this a bad card. Even at the $600 price point,
+
+07:04.320 --> 07:08.560
+it still might even be the best option for a lot of people. And with the 4070, you're getting the
+
+07:08.560 --> 07:13.120
+benefits of better ray tracing performance and DLSS in the supported games. Either way,
+
+07:13.120 --> 07:17.440
+I wanted to check this card out for myself and I knew it would fit nicely in this build.
+
+07:17.440 --> 07:21.920
+So to get the GPU into the case, we need to remove this top bracket. There are four screws on the
+
+07:21.920 --> 07:26.160
+front side and another eight screws on the backside to give this off. Four of those are the top fan
+
+07:26.160 --> 07:30.480
+screws, which is kind of crazy in my opinion. I think Fractal needs to look into making more
+
+07:30.480 --> 07:35.760
+of this case tool-less. Once removed, we can add the GPU riser to the 4070, align it to the slot
+
+07:35.760 --> 07:41.920
+on the GPU bracket, and gently push until it locks into place. Then plug the included power
+
+07:41.920 --> 07:46.800
+adapter into the two eight pins we ran earlier and connect the other end to the GPU. There's
+
+07:46.800 --> 07:51.840
+plenty of space for a larger GPU here. You could fit a GPU up to 335 millimeters, which should
+
+07:51.840 --> 07:57.920
+comfortably fit a 4070 Ti or even a Founder's 4080. If you go for a larger GPU, you will want
+
+07:57.920 --> 08:02.320
+to be mindful of the clearance at the top for the adapter. You would likely need to get a right angle
+
+08:02.320 --> 08:07.680
+adapter or a cable that is more flexible than the adapter that's included with the 4000 series cards.
+
+08:10.320 --> 08:17.680
+Okay, now we can re-secure the panels, and that's the build complete.
+
+08:32.320 --> 08:38.560
+Before we move on, if you want to see more builds like this in the future, it would mean a lot to me
+
+08:38.560 --> 08:42.720
+if you subscribed. It really helps the channel, and it's the biggest indicator to me that I should
+
+08:42.720 --> 08:48.000
+continue making videos like this. So, thank you. All right, I think this build is looking really
+
+08:48.000 --> 08:52.640
+nice, and a few things I did to make it more console-like is to set auto login and then launch
+
+08:52.640 --> 08:57.120
+Steam Big Picture mode. But also, I wanted to be able to wake the system with a controller. Now,
+
+08:57.120 --> 09:01.760
+I found that this only works with the older Xbox dongle. I haven't found a way for it to work with
+
+09:01.760 --> 09:06.480
+Bluetooth or the newer Xbox and PlayStation dongles. If you know of a way, please let me know.
+
+09:06.480 --> 09:11.200
+Also, there's still situations when you'll need to update drivers or do other things on the PC.
+
+09:11.200 --> 09:15.840
+I used this mini keyboard I found on Amazon for $30. It's made using a living room PC,
+
+09:15.840 --> 09:19.760
+significantly less cumbersome. It has a full keyboard, a trackpad in the middle,
+
+09:19.760 --> 09:23.520
+and shoulder buttons for left and right mouse clicks. What's nice about this one is that it
+
+09:23.520 --> 09:28.240
+has Bluetooth and USB options. You can wake the PC by toggling the switch on the mini keyboard.
+
+09:29.200 --> 09:34.480
+Okay, so now let's check out performance. Starting with Cyberpunk in 1440p and just
+
+09:34.480 --> 09:39.200
+rasterization, so that's without DLSS, and we're getting 60 to 70 frames per second.
+
+09:39.200 --> 09:43.920
+Realistically, I think in a game like this, you'll want to turn on DLSS and frame generation.
+
+09:43.920 --> 09:49.040
+And if you do, then you get a nice bump to around 100 to 130 frames per second. Now,
+
+09:49.040 --> 09:53.360
+if you're hooking this up to a 4K display with the same settings, then you're looking at around 70
+
+09:53.360 --> 09:58.400
+to 80 frames per second. Now, frame generation will add a bit of latency, but I think that's
+
+09:58.400 --> 10:03.200
+fine for these more cinematic titles, especially considering it can nearly double the frame rate
+
+10:03.200 --> 10:08.640
+in some games. Jumping into Hogwarts Legacy here in 1440p and rasterization performance is pretty
+
+10:08.640 --> 10:13.760
+decent at 60 to 70 frames per second on ultra settings. Now, again, you can utilize DLSS and
+
+10:13.760 --> 10:18.720
+frame generation to get a nice increase in frame rate. And using those features in 4K, we're looking
+
+10:18.720 --> 10:24.640
+at 70 to 80 frames per second. And look at those temps. Very reasonable in such a small form factor.
+
+10:24.640 --> 10:29.760
+Apex Legends again in 1440p high settings, and we're getting really decent performance here at
+
+10:29.760 --> 10:35.120
+170 to 200 frames per second. And if you want to bump the resolution up to 4K, we're getting over
+
+10:35.120 --> 10:40.400
+100 to 130 frames per second in those high settings, so you could drop those if you wanted more
+
+10:40.400 --> 10:50.240
+performance. For GPU thermals, running Heaven Benchmark, and it's averaging 64 degrees Celsius
+
+10:50.240 --> 10:54.400
+with very little fan noise. And in a worst-case scenario, running a multi-core stress test in
+
+10:54.400 --> 11:00.160
+Cinebench R23, and CPU temps are reaching around 80 degrees Celsius. Considering the size of this
+
+11:00.160 --> 11:05.680
+low-profile cooler, I'm still really impressed on how well it's cooling the 7800X 3D. Now,
+
+11:05.680 --> 11:09.920
+this system is built for gaming, and those thermals look great in my opinion. I'm seeing
+
+11:09.920 --> 11:15.440
+the CPU and GPU averaging around high 50s to mid 60s depending on the game. So I'm quite happy with
+
+11:15.440 --> 11:20.720
+this build overall. I wish the 4070 had a more reasonable price to performance, but that's kind
+
+11:20.720 --> 11:25.760
+of been the story with most of this generation of GPUs. And I'm continuously impressed on how
+
+11:25.760 --> 11:32.640
+efficient and easy to cool the 7800X 3D is. That CPU is just a monster. And I think the case looks
+
+11:32.640 --> 11:37.840
+really clean as well. I didn't really run into any issues building in it, but I do wish Fractal
+
+11:37.840 --> 11:42.400
+would make some of it tool-less. This is also a case you'll want to properly plan out ahead of
+
+11:42.400 --> 11:48.400
+time, as it's pretty limited in what it can fit. But I'm overall pretty happy with all the parts
+
+11:48.400 --> 11:52.800
+that I chose here. Everything ended up fitting together really nicely, and I didn't really have
+
+11:52.800 --> 11:57.040
+any issues putting it all together. Anyway, let me know what you think of the build. What do you like?
+
+11:57.040 --> 12:01.120
+What would you change? And if you want to build something similar to this, I'll have links in
+
+12:01.120 --> 12:05.760
+the video description. So thanks again for watching. I will see you in the next one.
